@@ -1,6 +1,6 @@
 # Custom-Object-Detection-YoLo-V3
 
-<img src="./screenshots_labelI.png"/>
+<img src="./darknet-yolo-1-638.jpg"/>
 
 ## Introduction
 This notebook shows how object detection can be done on your own dataset by training YOLOv3. I am going to use Hemlmet images as training dataset as an example to detect Helmets. After finishing this notebook, you will be able to train your own model, and detect objects that you are interested in.
