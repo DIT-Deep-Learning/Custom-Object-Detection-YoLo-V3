@@ -1,6 +1,6 @@
 # Custom-Object-Detection-YoLo-V3
 
-<img src="./screenshots_labelImg.png"/>
+<img src="./screenshots_labelI.png"/>
 
 ## Introduction
 This notebook shows how object detection can be done on your own dataset by training YOLOv3. I am going to use Hemlmet images as training dataset as an example to detect Helmets. After finishing this notebook, you will be able to train your own model, and detect objects that you are interested in.
@@ -12,6 +12,8 @@ This notebook shows how object detection can be done on your own dataset by trai
 4. How to make a prediction
 
 ## How to prepare your own dataset
+<img src="./screenshots_labelImg.png"/>
+
 Here I am using ImgLabel Software for labeling the image data. This software gives us a anchors in a YoLo predefined format so its easy to draw bounding boxes over the images.Annotating process generates a text file for each image, contains the object class number and coordination for each object in it, as this format "(object-id) (x-center) (y-center) (width) (height)" in each line for each object. Coordinations values (x, y, width, and height) are relative to the width and the height of the image. I hand-labeled them manually with, it is really a tedious task.
 
 ## How to make your own configuration file
