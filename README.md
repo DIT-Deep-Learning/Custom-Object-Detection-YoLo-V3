@@ -40,4 +40,4 @@ The most important part here is a folder structure. I use colab for training so 
 ## How to make a prediction
 
 
-<img src="./screenshots_labelImg.png"/>
+<img src="./Screenshot from 2020-03-11 11-45-02.png"/>
