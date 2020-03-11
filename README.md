@@ -38,3 +38,6 @@ The most important part here is a folder structure. I use colab for training so 
                 --->train and test.txt (contains the image paths).
               .
 ## How to make a prediction
+
+
+<img src="./screenshots_labelImg.png"/>
