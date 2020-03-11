@@ -28,9 +28,13 @@ Other files are needed to be created as "objects.names" which its name implies t
 ## Folder Structure
 The most important part here is a folder structure. I use colab for training so my folder structure is as followes
  Data_for_colab ---> Data------>ALl training images.
+ 
                 --->obj.name (contains the class names).
+                
                 --->obj.data (Contains the path of training and testing files).
+                
                 --->yolov3-tiny-obj.cfg (contains the YoLo model architecture).
+                
                 --->train and test.txt (contains the image paths).
               .
 ## How to make a prediction
